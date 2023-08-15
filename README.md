@@ -7,4 +7,5 @@ READ a student/s;
 UPDATE a student;
 DELETE a student;
 
-After each operation details are stored in app.log file.
+API can we viewed in Swagger-UI.
+Log details are stored in app.log file.
